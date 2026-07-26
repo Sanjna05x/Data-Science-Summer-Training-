@@ -23,8 +23,6 @@
 
 </div>
 
-> Replace `Sanjna` in the badge URLs above with your actual GitHub username so the live stats work.
-
 Welcome to my **Data Science & Machine Learning Training Repository**. This contains every project, practice file, assignment, and note completed during my training — showing the journey from raw data to deployable machine learning models.
 
 This training was completed under **[A2IT InternEdge](https://www.a2itsoft.com/)**, an ISO-certified IT training and internship provider.
