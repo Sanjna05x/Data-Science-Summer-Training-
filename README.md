@@ -1,145 +1,146 @@
+<div align="center">
+
 # 📊 Data Science Summer Training
 
-Welcome to my **Data Science & Machine Learning Training Repository**. This repository contains all the projects, practice files, assignments, and notes that I completed during my training. It showcases my journey from data analysis to machine learning using industry-standard tools and technologies.
+### From raw data to trained models — a complete summer training journey.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Data+Cleaning+%E2%9E%9C+EDA+%E2%9E%9C+Machine+Learning;Excel+%2B+Python+%2B+Power+BI+%2B+ML;Built+during+my+Data+Science+Summer+Training" alt="Typing SVG" />
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#-python)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](#-python)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](#-python)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](#-machine-learning)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#-power-bi)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#-ms-excel)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](#-tools--technologies)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#-tools--technologies)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sanjna-DS-Training&color=blue&style=flat-square&label=Repo+Views)
+![Last Commit](https://img.shields.io/github/last-commit/yourusername/Data-Science-ML-Training?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/yourusername/Data-Science-ML-Training?style=flat-square)
+![Stars](https://img.shields.io/github/stars/yourusername/Data-Science-ML-Training?style=flat-square)
+
+</div>
+
+> Replace `yourusername` in the badge URLs above with your actual GitHub username so the live stats work.
+
+Welcome to my **Data Science & Machine Learning Training Repository**. This contains every project, practice file, assignment, and note completed during my training — showing the journey from raw data to deployable machine learning models.
+
+---
+
+## 🗂️ Table of Contents
+
+| | | |
+|---|---|---|
+| [📈 MS Excel](#-ms-excel) | [🐍 Python](#-python) | [📊 EDA](#-exploratory-data-analysis-eda) |
+| [📉 Power BI](#-power-bi) | [🤖 Machine Learning](#-machine-learning) | [📚 Statistics](#-statistical-mathematics) |
+| [🛠️ Tools](#️-tools--technologies) | [📂 Structure](#-repository-structure) | [🎯 Outcomes](#-learning-outcomes) |
+| [📌 Future Goals](#-future-goals) | [👩‍💻 Author](#-author) | [⭐ Support](#-support-this-repo) |
 
 ---
 
 ## 🚀 Training Modules
 
-### 📈 MS Excel
-- Data Cleaning
-- Data Analysis
-- Sorting & Filtering
-- Conditional Formatting
-- Data Validation
-- Excel Functions
-  - IF
-  - VLOOKUP
-  - XLOOKUP
-  - INDEX & MATCH
-  - SUMIF / COUNTIF
-  - TEXT Functions
-  - Date & Time Functions
-- Pivot Tables
-- Pivot Charts
+<details>
+<summary><h3>📈 MS Excel</h3></summary>
+
+- Data Cleaning, Data Analysis, Sorting & Filtering
+- Conditional Formatting & Data Validation
+- **Excel Functions**
+  - `IF` · `VLOOKUP` · `XLOOKUP` · `INDEX & MATCH` · `SUMIF` / `COUNTIF` · Text Functions · Date & Time Functions
+- Pivot Tables & Pivot Charts
 - Interactive Dashboards
 - Business Case Studies
 
----
+**Progress:** `██████████` 100%
+</details>
 
-### 🐍 Python
-#### Core Python
-- Variables & Data Types
-- Operators
-- Conditional Statements
-- Loops
-- Functions
-- File Handling
-- Exception Handling
+<details>
+<summary><h3>🐍 Python</h3></summary>
 
-#### Object-Oriented Programming (OOP)
-- Classes & Objects
-- Inheritance
-- Polymorphism
-- Encapsulation
-- Abstraction
+**Core Python**
+- Variables & Data Types · Operators · Conditional Statements · Loops · Functions
+- File Handling · Exception Handling
 
-#### Python Libraries
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
+**Object-Oriented Programming (OOP)**
+- Classes & Objects · Inheritance · Polymorphism · Encapsulation · Abstraction
 
----
+**Libraries**
+- NumPy · Pandas · Matplotlib · Seaborn
 
-### 📊 Exploratory Data Analysis (EDA)
-- Importing Datasets
-- Data Cleaning
-- Handling Missing Values
-- Removing Duplicates
-- Data Type Conversion
-- Outlier Detection
-- Univariate Analysis
-- Bivariate Analysis
-- Correlation Analysis
-- Data Visualization
+**Progress:** `██████████` 100%
+</details>
+
+<details>
+<summary><h3>📊 Exploratory Data Analysis (EDA)</h3></summary>
+
+- Importing Datasets & Data Cleaning
+- Handling Missing Values & Removing Duplicates
+- Data Type Conversion & Outlier Detection
+- Univariate & Bivariate Analysis
+- Correlation Analysis & Data Visualization
 - Key Insights & Conclusions
 
----
+**Progress:** `██████████` 100%
+</details>
 
-### 📉 Power BI
-- Data Import
-- Power Query
-- Data Cleaning
-- Data Modeling
-- DAX Basics
-- Measures & Calculated Columns
-- Interactive Dashboards
-- KPIs
-- Slicers & Filters
-- Charts & Visualizations
+<details>
+<summary><h3>📉 Power BI</h3></summary>
 
----
+- Data Import & Power Query
+- Data Cleaning & Data Modeling
+- DAX Basics, Measures & Calculated Columns
+- Interactive Dashboards & KPIs
+- Slicers, Filters, Charts & Visualizations
 
-### 🤖 Machine Learning
-#### Data Preprocessing
-- Feature Selection
-- Feature Engineering
-- Encoding
-- Scaling
-- Train-Test Split
+**Progress:** `██████████` 100%
+</details>
 
-#### Supervised Learning
-- Linear Regression
-- Logistic Regression
-- Decision Tree
-- Random Forest
-- K-Nearest Neighbors (KNN)
-- Support Vector Machine (SVM)
+<details>
+<summary><h3>🤖 Machine Learning</h3></summary>
 
-#### Unsupervised Learning
-- K-Means Clustering
-- Hierarchical Clustering
+**Data Preprocessing**
+- Feature Selection · Feature Engineering · Encoding · Scaling · Train-Test Split
 
-#### Model Evaluation
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-- Confusion Matrix
-- ROC-AUC
-- Cross Validation
+**Supervised Learning**
+- Linear Regression · Logistic Regression · Decision Tree · Random Forest · KNN · SVM
 
----
+**Unsupervised Learning**
+- K-Means Clustering · Hierarchical Clustering
 
-### 📚 Statistical Mathematics
-- Mean
-- Median
-- Mode
-- Variance
-- Standard Deviation
-- Probability Basics
-- Normal Distribution
-- Z-Score
-- Correlation
-- Hypothesis Testing
-- Confidence Interval
+**Model Evaluation**
+- Accuracy · Precision · Recall · F1 Score · Confusion Matrix · ROC-AUC · Cross Validation
+
+**Progress:** `██████████` 100%
+</details>
+
+<details>
+<summary><h3>📚 Statistical Mathematics</h3></summary>
+
+- Mean, Median, Mode · Variance & Standard Deviation
+- Probability Basics · Normal Distribution · Z-Score
+- Correlation · Hypothesis Testing · Confidence Interval
+
+**Progress:** `██████████` 100%
+</details>
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- MS Excel
-- Python
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Power BI
-- Scikit-learn
-- Git
-- GitHub
+<div align="center">
+
+| Category | Stack |
+|---|---|
+| **Languages** | Python |
+| **Data Analysis** | Pandas, NumPy |
+| **Visualization** | Matplotlib, Seaborn, Power BI, Excel Charts |
+| **Machine Learning** | Scikit-learn |
+| **Notebook** | Jupyter Notebook |
+| **BI Tool** | MS Excel, Power BI |
+| **Version Control** | Git, GitHub |
+
+</div>
 
 ---
 
@@ -151,23 +152,23 @@ Welcome to my **Data Science & Machine Learning Training Repository**. This repo
 ├── Excel/
 │   ├── Dashboards
 │   ├── Functions
-│   ├── Case Studies
+│   └── Case Studies
 │
 ├── Python/
 │   ├── OOP
 │   ├── Libraries
-│   ├── Practice Programs
+│   └── Practice Programs
 │
 ├── EDA Projects/
 │
 ├── Power BI/
 │   ├── Dashboards
-│   ├── Reports
+│   └── Reports
 │
 ├── Machine Learning/
 │   ├── Regression
 │   ├── Classification
-│   ├── Clustering
+│   └── Clustering
 │
 ├── Statistics/
 │
@@ -178,7 +179,8 @@ Welcome to my **Data Science & Machine Learning Training Repository**. This repo
 
 ## 🎯 Learning Outcomes
 
-Through this training, I gained practical experience in:
+<details>
+<summary>Click to expand what I gained from this training</summary>
 
 - Cleaning and analyzing real-world datasets
 - Creating interactive Excel and Power BI dashboards
@@ -189,27 +191,43 @@ Through this training, I gained practical experience in:
 - Understanding statistical concepts used in data science
 - Using Git and GitHub for version control
 
+</details>
+
 ---
 
 ## 📌 Future Goals
 
-- Deep Learning
-- SQL for Data Analytics
-- Natural Language Processing (NLP)
-- Time Series Analysis
-- Deployment using Flask/FastAPI
-- Cloud Platforms (AWS/Azure)
+- [ ] Deep Learning
+- [ ] SQL for Data Analytics
+- [ ] Natural Language Processing (NLP)
+- [ ] Time Series Analysis
+- [ ] Deployment using Flask/FastAPI
+- [ ] Cloud Platforms (AWS/Azure)
 
 ---
 
 ## 👩‍💻 Author
 
-**Sanjna**
+<div align="center">
 
+### **Sanjna**
 B.Tech – Artificial Intelligence & Data Science
-
 Passionate about Data Analytics, Machine Learning, and creating data-driven solutions.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+</div>
 
 ---
 
-⭐ If you found this repository useful, feel free to star it!
+## ⭐ Support this Repo
+
+If you found this repository useful, please consider giving it a **star** — it helps others discover it too!
+
+<div align="center">
+
+[![Star this repo](https://img.shields.io/github/stars/yourusername/Data-Science-ML-Training?style=social)](#)
+
+</div>
