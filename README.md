@@ -19,12 +19,15 @@
 ![Last Commit](https://img.shields.io/github/last-commit/yourusername/Data-Science-ML-Training?style=flat-square)
 ![Repo Size](https://img.shields.io/github/repo-size/yourusername/Data-Science-ML-Training?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/yourusername/Data-Science-ML-Training?style=flat-square)
+![Duration](https://img.shields.io/badge/Duration-45%20Days-success?style=flat-square)
 
 </div>
 
-> Replace `Sanjna` in the badge URLs above with your actual GitHub username so the live stats work.
+> Replace `yourusername` in the badge URLs above with your actual GitHub username so the live stats work.
 
-Welcome to my **Data Science Summer training**. This contains every project, practice file, assignment, and note completed during my training — showing the journey from raw data to deployable machine learning models.
+Welcome to my **Data Science & Machine Learning Training Repository**. This contains every project, practice file, assignment, and note completed during my training — showing the journey from raw data to deployable machine learning models.
+
+This training was completed under **[A2IT InternEdge](https://www.a2itsoft.com/)**, an ISO-certified IT training and internship provider.
 
 ---
 
@@ -35,7 +38,7 @@ Welcome to my **Data Science Summer training**. This contains every project, pra
 | [📈 MS Excel](#-ms-excel) | [🐍 Python](#-python) | [📊 EDA](#-exploratory-data-analysis-eda) |
 | [📉 Power BI](#-power-bi) | [🤖 Machine Learning](#-machine-learning) | [📚 Statistics](#-statistical-mathematics) |
 | [🛠️ Tools](#️-tools--technologies) | [📂 Structure](#-repository-structure) | [🎯 Outcomes](#-learning-outcomes) |
-| [📌 Future Goals](#-future-goals) | [👩‍💻 Author](#-author) | [⭐ Support](#-support-this-repo) |
+| [📌 Future Goals](#-future-goals) | [🏢 Training Provider](#-training-provider) | [👩‍💻 Author](#-author) |
 
 ---
 
@@ -145,89 +148,3 @@ Welcome to my **Data Science Summer training**. This contains every project, pra
 ---
 
 ## 📂 Repository Structure
-
-```
-📦 Data-Science-ML-Training
-│
-├── Excel/
-│   ├── Dashboards
-│   ├── Functions
-│   └── Case Studies
-│
-├── Python/
-│   ├── OOP
-│   ├── Libraries
-│   └── Practice Programs
-│
-├── EDA Projects/
-│
-├── Power BI/
-│   ├── Dashboards
-│   └── Reports
-│
-├── Machine Learning/
-│   ├── Regression
-│   ├── Classification
-│   └── Clustering
-│
-├── Statistics/
-│
-└── README.md
-```
-
----
-
-## 🎯 Learning Outcomes
-
-<details>
-<summary>Click to expand what I gained from this training</summary>
-
-- Cleaning and analyzing real-world datasets
-- Creating interactive Excel and Power BI dashboards
-- Performing Exploratory Data Analysis (EDA)
-- Writing efficient Python programs
-- Applying Object-Oriented Programming concepts
-- Building and evaluating Machine Learning models
-- Understanding statistical concepts used in data science
-- Using Git and GitHub for version control
-
-</details>
-
----
-
-## 📌 Future Goals
-
-- [ ] Deep Learning
-- [ ] SQL for Data Analytics
-- [ ] Natural Language Processing (NLP)
-- [ ] Time Series Analysis
-- [ ] Deployment using Flask/FastAPI
-- [ ] Cloud Platforms (AWS/Azure)
-
----
-
-## 👩‍💻 Author
-
-<div align="center">
-
-### **Sanjna**
-B.Tech – Artificial Intelligence & Data Science
-Passionate about Data Analytics, Machine Learning, and creating data-driven solutions.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-
-</div>
-
----
-
-## ⭐ Support this Repo
-
-If you found this repository useful, please consider giving it a **star** — it helps others discover it too!
-
-<div align="center">
-
-[![Star this repo](https://img.shields.io/github/stars/yourusername/Data-Science-ML-Training?style=social)](#)
-
-</div>
