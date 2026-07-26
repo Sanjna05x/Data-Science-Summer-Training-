@@ -24,6 +24,7 @@
 </div>
 
 Welcome to my **Data Science & Machine Learning Training Repository**. This contains every project, practice file, assignment, and note completed during my training — showing the journey from raw data to deployable machine learning models.
+Duration - 45 days 
 
 This training was completed under **[A2IT InternEdge](https://www.a2itsoft.com/)**, an ISO-certified IT training and internship provider.
 
