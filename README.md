@@ -23,7 +23,7 @@
 
 </div>
 
-> Replace `yourusername` in the badge URLs above with your actual GitHub username so the live stats work.
+> Replace `Sanjna` in the badge URLs above with your actual GitHub username so the live stats work.
 
 Welcome to my **Data Science & Machine Learning Training Repository**. This contains every project, practice file, assignment, and note completed during my training — showing the journey from raw data to deployable machine learning models.
 
@@ -144,7 +144,86 @@ This training was completed under **[A2IT InternEdge](https://www.a2itsoft.com/)
 | **Version Control** | Git, GitHub |
 
 </div>
+---
 
+## 🎯 Learning Outcomes
+
+<details>
+<summary>Click to expand what I gained from this training</summary>
+
+- Cleaning and analyzing real-world datasets
+- Creating interactive Excel and Power BI dashboards
+- Performing Exploratory Data Analysis (EDA)
+- Writing efficient Python programs
+- Applying Object-Oriented Programming concepts
+- Building and evaluating Machine Learning models
+- Understanding statistical concepts used in data science
+- Using Git and GitHub for version control
+
+</details>
+
+---
+
+## 📌 Future Goals
+
+- [ ] Deep Learning
+- [ ] SQL for Data Analytics
+- [ ] Natural Language Processing (NLP)
+- [ ] Time Series Analysis
+- [ ] Deployment using Flask/FastAPI
+- [ ] Cloud Platforms (AWS/Azure)
+
+---
+
+## 🏢 Training Provider
+
+<div align="center">
+
+### **A2IT InternEdge**
+ISO-certified IT training and internship provider
+
+[![Website](https://img.shields.io/badge/Website-a2itsoft.com-2E86C1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.a2itsoft.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A2IT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/company/a2it-internship)
+[![Instagram](https://img.shields.io/badge/Instagram-a2it__online-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a2it_online/)
+
+</div>
+
+- 🏆 Over **two decades** of operation in IT training & internships
+- 💻 Programs in **Software Development, AI/ML, and Cyber Security**
+- 🕒 **Flexible online and offline** training formats
+- 🛠️ Hands-on **live project experience**
+- ✅ **ISO-certified** training provider
+- 📅 **This training program duration: 45 days**
+
+📌 Explore their programs: [Six-Month Internship](https://www.a2itsoft.com/six-month-internship) · [Internship Programs](https://www.a2itsoft.com/internship)
+
+---
+
+## 👩‍💻 Author
+
+<div align="center">
+
+### **Sanjna**
+B.Tech – Artificial Intelligence & Data Science
+Passionate about Data Analytics, Machine Learning, and creating data-driven solutions.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+</div>
+
+---
+
+## ⭐ Support this Repo
+
+If you found this repository useful, please consider giving it a **star** — it helps others discover it too!
+
+<div align="center">
+
+[![Star this repo](https://img.shields.io/github/stars/yourusername/Data-Science-ML-Training?style=social)](#)
+
+</div>
 ---
 
 ## 📂 Repository Structure
