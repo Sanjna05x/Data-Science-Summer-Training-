@@ -1,4 +1,4 @@
-# 📊 Data Science & Machine Learning Training
+# 📊 Data Science Summer Training
 
 Welcome to my **Data Science & Machine Learning Training Repository**. This repository contains all the projects, practice files, assignments, and notes that I completed during my training. It showcases my journey from data analysis to machine learning using industry-standard tools and technologies.
 
