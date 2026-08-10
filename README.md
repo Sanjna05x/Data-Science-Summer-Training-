@@ -2,9 +2,11 @@
 
 # 📊 Data Science Summer Training
 
-### From raw data to trained models — a complete summer training journey.
+**From raw data to trained models — a complete summer training journey.**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Data+Cleaning+%E2%9E%9C+EDA+%E2%9E%9C+Machine+Learning;Excel+%2B+Python+%2B+Power+BI+%2B+ML;Built+during+my+Data+Science+Summer+Training" alt="Typing SVG" />
+
+<br>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#-python)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](#-python)
@@ -23,24 +25,24 @@
 
 </div>
 
-Welcome to my **Data Science & Machine Learning Training Repository**. This contains every project, practice file, assignment, and note completed during my training — showing the journey from raw data to deployable machine learning models.
+<br>
 
-# Duration - 45 days 
+Welcome to my **Data Science & Machine Learning Training Repository** 👋 — a complete record of every project, practice file, assignment, and note completed during a **45-day training program**, documenting the journey from raw data to deployable machine learning models.
 
 This training was completed under **[A2IT InternEdge](https://www.a2itsoft.com/)**, an ISO-certified IT training and internship provider.
 
----
+<br>
 
 ## 🗂️ Table of Contents
 
 | | | |
-|---|---|---|
+|:---|:---|:---|
 | [📈 MS Excel](#-ms-excel) | [🐍 Python](#-python) | [📊 EDA](#-exploratory-data-analysis-eda) |
 | [📉 Power BI](#-power-bi) | [🤖 Machine Learning](#-machine-learning) | [📚 Statistics](#-statistical-mathematics) |
-| [🛠️ Tools](#️-tools--technologies) | [📂 Structure](#-repository-structure) | [🎯 Outcomes](#-learning-outcomes) |
-| [📌 Future Goals](#-future-goals) | [🏢 Training Provider](#-training-provider) | [👩‍💻 Author](#-author) |
+| [🛠️ Tools & Technologies](#️-tools--technologies) | [🎯 Learning Outcomes](#-learning-outcomes) | [📌 Future Goals](#-future-goals) |
+| [🏢 Training Provider](#-training-provider) | [👩‍💻 Author](#-author) | [⭐ Support](#-support-this-repo) |
 
----
+<br>
 
 ## 🚀 Training Modules
 
@@ -49,13 +51,13 @@ This training was completed under **[A2IT InternEdge](https://www.a2itsoft.com/)
 
 - Data Cleaning, Data Analysis, Sorting & Filtering
 - Conditional Formatting & Data Validation
-- **Excel Functions**
-  - `IF` · `VLOOKUP` · `XLOOKUP` · `INDEX & MATCH` · `SUMIF` / `COUNTIF` · Text Functions · Date & Time Functions
+- **Excel Functions:** `IF` · `VLOOKUP` · `XLOOKUP` · `INDEX & MATCH` · `SUMIF` / `COUNTIF` · Text Functions · Date & Time Functions
 - Pivot Tables & Pivot Charts
 - Interactive Dashboards
 - Business Case Studies
 
 **Progress:** `██████████` 100%
+
 </details>
 
 <details>
@@ -72,6 +74,7 @@ This training was completed under **[A2IT InternEdge](https://www.a2itsoft.com/)
 - NumPy · Pandas · Matplotlib · Seaborn
 
 **Progress:** `██████████` 100%
+
 </details>
 
 <details>
@@ -85,6 +88,7 @@ This training was completed under **[A2IT InternEdge](https://www.a2itsoft.com/)
 - Key Insights & Conclusions
 
 **Progress:** `██████████` 100%
+
 </details>
 
 <details>
@@ -97,6 +101,7 @@ This training was completed under **[A2IT InternEdge](https://www.a2itsoft.com/)
 - Slicers, Filters, Charts & Visualizations
 
 **Progress:** `██████████` 100%
+
 </details>
 
 <details>
@@ -115,6 +120,7 @@ This training was completed under **[A2IT InternEdge](https://www.a2itsoft.com/)
 - Accuracy · Precision · Recall · F1 Score · Confusion Matrix · ROC-AUC · Cross Validation
 
 **Progress:** `██████████` 100%
+
 </details>
 
 <details>
@@ -125,44 +131,47 @@ This training was completed under **[A2IT InternEdge](https://www.a2itsoft.com/)
 - Correlation · Hypothesis Testing · Confidence Interval
 
 **Progress:** `██████████` 100%
+
 </details>
 
----
+<br>
 
 ## 🛠️ Tools & Technologies
 
 <div align="center">
 
 | Category | Stack |
-|---|---|
+|:---|:---|
 | **Languages** | Python |
 | **Data Analysis** | Pandas, NumPy |
 | **Visualization** | Matplotlib, Seaborn, Power BI, Excel Charts |
 | **Machine Learning** | Scikit-learn |
 | **Notebook** | Jupyter Notebook |
-| **BI Tool** | MS Excel, Power BI |
+| **BI Tools** | MS Excel, Power BI |
 | **Version Control** | Git, GitHub |
 
 </div>
----
+
+<br>
 
 ## 🎯 Learning Outcomes
 
 <details>
 <summary>Click to expand what I gained from this training</summary>
+<br>
 
-- Cleaning and analyzing real-world datasets
-- Creating interactive Excel and Power BI dashboards
-- Performing Exploratory Data Analysis (EDA)
-- Writing efficient Python programs
-- Applying Object-Oriented Programming concepts
-- Building and evaluating Machine Learning models
-- Understanding statistical concepts used in data science
-- Using Git and GitHub for version control
+- ✅ Cleaning and analyzing real-world datasets
+- ✅ Creating interactive Excel and Power BI dashboards
+- ✅ Performing Exploratory Data Analysis (EDA)
+- ✅ Writing efficient, well-structured Python programs
+- ✅ Applying Object-Oriented Programming concepts
+- ✅ Building and evaluating Machine Learning models
+- ✅ Understanding statistical concepts used in data science
+- ✅ Using Git and GitHub for version control
 
 </details>
 
----
+<br>
 
 ## 📌 Future Goals
 
@@ -170,17 +179,17 @@ This training was completed under **[A2IT InternEdge](https://www.a2itsoft.com/)
 - [ ] SQL for Data Analytics
 - [ ] Natural Language Processing (NLP)
 - [ ] Time Series Analysis
-- [ ] Deployment using Flask/FastAPI
-- [ ] Cloud Platforms (AWS/Azure)
+- [ ] Deployment using Flask / FastAPI
+- [ ] Cloud Platforms (AWS / Azure)
 
----
+<br>
 
 ## 🏢 Training Provider
 
 <div align="center">
 
-### **A2IT InternEdge**
-ISO-certified IT training and internship provider
+### A2IT InternEdge
+*ISO-certified IT training and internship provider*
 
 [![Website](https://img.shields.io/badge/Website-a2itsoft.com-2E86C1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.a2itsoft.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A2IT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/company/a2it-internship)
@@ -193,19 +202,19 @@ ISO-certified IT training and internship provider
 - 🕒 **Flexible online and offline** training formats
 - 🛠️ Hands-on **live project experience**
 - ✅ **ISO-certified** training provider
-- 📅 **This training program duration: 45 days**
+- 📅 **This program's duration:** 45 days
 
 📌 Explore their programs: [Six-Month Internship](https://www.a2itsoft.com/six-month-internship) · [Internship Programs](https://www.a2itsoft.com/internship)
 
----
+<br>
 
 ## 👩‍💻 Author
 
 <div align="center">
 
-### **Sanjna**
-B.Tech – Artificial Intelligence & Data Science
-Passionate about Data Analytics, Machine Learning, and creating data-driven solutions.
+### Sanjna
+**B.Tech – Artificial Intelligence & Data Science**
+Passionate about Data Analytics, Machine Learning, and building data-driven solutions.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
@@ -213,7 +222,7 @@ Passionate about Data Analytics, Machine Learning, and creating data-driven solu
 
 </div>
 
----
+<br>
 
 ## ⭐ Support this Repo
 
@@ -224,6 +233,11 @@ If you found this repository useful, please consider giving it a **star** — it
 [![Star this repo](https://img.shields.io/github/stars/yourusername/Data-Science-ML-Training?style=social)](#)
 
 </div>
----
 
-## Thank you 
+<br>
+
+<div align="center">
+
+**Thank you for visiting! 🙌**
+
+</div>
