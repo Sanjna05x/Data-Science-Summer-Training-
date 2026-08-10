@@ -17,12 +17,6 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](#-tools--technologies)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#-tools--technologies)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sanjna-DS-Training&color=blue&style=flat-square&label=Repo+Views)
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/Data-Science-ML-Training?style=flat-square)
-![Repo Size](https://img.shields.io/github/repo-size/yourusername/Data-Science-ML-Training?style=flat-square)
-![Stars](https://img.shields.io/github/stars/yourusername/Data-Science-ML-Training?style=flat-square)
-![Duration](https://img.shields.io/badge/Duration-45%20Days-success?style=flat-square)
-
 </div>
 
 <br>
